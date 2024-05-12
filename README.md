@@ -1,4 +1,4 @@
-`# Proposal-Design-QuranAndCo
+# Proposal-Design-QuranAndCo
 ## Halo! Kami tim Qur'an and Co.
 ### Yang terdiri dari
 1. Abdullah Azzam
