@@ -1,4 +1,4 @@
-# Proposal-Design-QuranAndCo
+`# Proposal-Design-QuranAndCo
 ## Halo! Kami tim Qur'an and Co.
 ### Yang terdiri dari
 1. Abdullah Azzam
@@ -13,4 +13,4 @@ Menyajikan sebuah proposal design proyek machine learning. Proposal Desain ini b
 Dengan memanfaatkan kemajuan dalam teknologi pengenalan suara, aplikasi ini akan dapat mengidentifikasi kesalahan bacaan Al-Quran, seperti kesalahan dalam pengucapan huruf atau kata, dan memberikan umpan balik kepada pengguna untuk membantu mereka memperbaiki bacaan mereka. Tujuan utama dari proposal ini adalah untuk menyediakan alat yang efektif dan praktis bagi individu yang ingin meningkatkan kualitas bacaan Al-Quran mereka, serta untuk memfasilitasi pembelajaran dan pengajaran Al-Quran secara lebih interaktif dan mudah diakses melalui perangkat mobile.
 
 
-Berikut file lengkapnya '[Proposal Design](://drive.google.com/file/d/1bG-1pTpIAkL0A834zfJocWBFFXcTVWk7/view?usp=sharing)'
+Berikut file lengkapnya "[Proposal Design](http://drive.google.com/file/d/1bG-1pTpIAkL0A834zfJocWBFFXcTVWk7/view?usp=sharing)"
